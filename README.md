@@ -1,5 +1,4 @@
-# Kaggle_Titani
-Kaggle_Titanic: Machine Learning from Disaster
+# Kaggle_Titani：Machine Learning from Disaster
 
 Kernel：
 - https://www.kaggle.com/sinakhorami/titanic-best-working-classifier
@@ -17,8 +16,8 @@ Kernel：
 
 1. 各種學習器比較
 
-w3-1 Ensemble Learning
-[ ] Voting Classifier
-[ ] Bagging
-[ ] Random Forest
-[ ] Adaptive Boosting
+* w3-1 Ensemble Learning
+- [ ] Voting Classifier
+- [ ] Bagging
+- [ ] Random Forest
+- [ ] Adaptive Boosting
