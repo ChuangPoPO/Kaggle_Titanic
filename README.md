@@ -6,9 +6,16 @@
 
 ### [步驟](http://happycoder.org/2017/10/14/python-data-science-and-machine-learning-scikit-learn-basic-tutorial/)
  1. 明確定義問題 (Problem Definition)
+   - 假設
+   - 如何最小化 cost function
  1. 獲取資料與探索性資料分析 (Get Data & Exploratory Data Analysis)
  1. 資料預處理與特徵工程 (Data Clean/Preprocessing & Feature Engineering)
+   - 清理、標準化、編碼
+   - 資料切分(訓練、測試資料)
  1. 訓練模型與校調 (Model Training)
+   - 挑選演算法
+   - 資料放入學習演算法
+   - 模型評估：模型預測效果如何(學習曲線/驗證曲線)
  1. 模型驗證 (Model Predict & Testing)
  1. 模型優化 (Model Optimization)
  1. 上線運行 (Deploy Model)
